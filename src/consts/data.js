@@ -1,7 +1,6 @@
 
 
-const IMAGES = [
-  { src: "/images/album/AMN01257.JPG" },
+const IMAGES = [ 
   { src: "/images/album/AMN01626.JPG" },
   { src: "/images/album/AMN01631.JPG" },
   { src: "/images/album/AMN01739.JPG" },

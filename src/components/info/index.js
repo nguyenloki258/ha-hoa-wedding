@@ -41,7 +41,7 @@ const Info = ({ page }) => {
 
                         </div>
                         <div className="sub-info">
-                           Yên Sơn - Sơn Trung - Hương Sơn - Hà Tĩnh
+                        Ngăm Mạc - Lãng Ngân - Gia Bình - Bắc Ninh
                         </div>
                     </div>
                 )
