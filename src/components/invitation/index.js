@@ -35,7 +35,7 @@ const Invitation = ({ page = 1 }) => {
         }
         const location = urlParams.get("location") || "nha-trai";
         let img = await loadImage(
-          `images/invitation/thiep.jpg`
+          `images/invitation/${location}.jpg`
         );
         var hRatio = canvas.width / img.width;
         var vRatio = canvas.height / img.height;
