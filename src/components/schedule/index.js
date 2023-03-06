@@ -46,19 +46,19 @@ const Schedule = () => {
         <div className="timeline">
           <div className="container right">
             <div className="content">
-              <h2 className="dark:text-black">16h00 - 16h45 <div><small> 11/03/2023</small></div></h2>
+              <h2 className="dark:text-black">16h00 - 16h45 <div><small> 12/03/2023</small></div></h2>
               <p className="dark:text-black">📷 Chụp ảnh check in </p>
             </div>
           </div>
           <div className="container left">
             <div className="content">
-              <h2 className="dark:text-black">17h00 - 19h45 <div><small> 11/03/2023</small></div></h2>
+              <h2 className="dark:text-black">17h00 - 19h45 <div><small> 12/03/2023</small></div></h2>
               <p className="dark:text-black">🍽️ Mời khách bữa cơm thân mật</p>
             </div>
           </div>
           <div className="container right">
             <div className="content">
-              <h2 className="dark:text-black">20h00 - 22h00 <div><small> 11/03/2023</small></div></h2>
+              <h2 className="dark:text-black">20h00 - 22h00 <div><small> 12/03/2023</small></div></h2>
               <p className="dark:text-black">💃 Quẩy tưng bừng tại nhà gái</p>
             </div>
           </div>

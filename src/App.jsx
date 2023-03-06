@@ -89,12 +89,12 @@ function App() {
     <div className="App" ref={fullPage} onScroll={onScroll}>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>{location === 'nha-trai' ? "Lễ thành hôn | 11/03/2023 | Hà ❤️ Hoa" : "Lễ vu quy | 11/03/2023 | Hà ❤️ Hoa"}</title>
-        <meta property="og:title" content={location === 'nha-trai' ? "Lễ thành hôn | 11/03/2023 | Hà ❤️ Hoa" : "Lễ vu quy | 11/03/2023 | Hà ❤️ Hoa"} />
-        <meta property="og:site_name" content={location === 'nha-trai' ? "Lễ thành hôn | 11/03/2023 | Hà ❤️ Hoa" : "Lễ vu quy | 11/03/2023 | Hà ❤️ Hoa"} />
-        <meta property="og:site_name" content={location === 'nha-trai' ? "Lễ thành hôn | 11/03/2023 | Hà ❤️ Hoa" : "Lễ vu quy | 11/03/2023 | Hà ❤️ Hoa"} />
-        <meta name="twitter:site" content={location === 'nha-trai' ? "Lễ thành hôn | 11/03/2023 | Hà ❤️ Hoa" : "Lễ vu quy | 11/03/2023 | Hà ❤️ Hoa"} />
-        <meta name="twitter:title" content={location === 'nha-trai' ? "Lễ thành hôn | 11/03/2023 | Hà ❤️ Hoa" : "Lễ vu quy | 11/03/2023 | Hà ❤️ Hoa"} />
+        <title>{location === 'nha-trai' ? "Lễ thành hôn | 12/03/2023 | Hà ❤️ Hoa" : "Lễ vu quy | 12/03/2023 | Hà ❤️ Hoa"}</title>
+        <meta property="og:title" content={location === 'nha-trai' ? "Lễ thành hôn | 12/03/2023 | Hà ❤️ Hoa" : "Lễ vu quy | 12/03/2023 | Hà ❤️ Hoa"} />
+        <meta property="og:site_name" content={location === 'nha-trai' ? "Lễ thành hôn | 12/03/2023 | Hà ❤️ Hoa" : "Lễ vu quy | 12/03/2023 | Hà ❤️ Hoa"} />
+        <meta property="og:site_name" content={location === 'nha-trai' ? "Lễ thành hôn | 12/03/2023 | Hà ❤️ Hoa" : "Lễ vu quy | 12/03/2023 | Hà ❤️ Hoa"} />
+        <meta name="twitter:site" content={location === 'nha-trai' ? "Lễ thành hôn | 12/03/2023 | Hà ❤️ Hoa" : "Lễ vu quy | 12/03/2023 | Hà ❤️ Hoa"} />
+        <meta name="twitter:title" content={location === 'nha-trai' ? "Lễ thành hôn | 12/03/2023 | Hà ❤️ Hoa" : "Lễ vu quy | 12/03/2023 | Hà ❤️ Hoa"} />
       </Helmet>
       <a
         href={getInvitation()}
